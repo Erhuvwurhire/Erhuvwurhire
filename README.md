@@ -14,7 +14,7 @@ Focused on applying AI to real-world problems in the Manufacturing and Energy se
 
 ---
 
-### 📌 Current Interests
+###  Interests
 
 - 🔧 Applying ML to improve reliability in industrial systems  
 - 📊 Building data pipelines for sensor-driven decision-making  
@@ -28,7 +28,6 @@ Focused on applying AI to real-world problems in the Manufacturing and Energy se
 -  **Predictive Maintenance with NASA CMAPSS**  
   ML pipeline to forecast turbofan engine failures using sensor data
 -  **Abnormality Detection in Sensor Networks**
-
 -  **Reinforcement Learning for Process Control**  
   Optimizing energy and resource usage in industrial operations
   
